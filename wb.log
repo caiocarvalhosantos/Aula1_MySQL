@@ -1,0 +1,205 @@
+08:54:21 [ERR][      Workbench]: Console redirection failed.
+08:54:21 [INF][      Workbench]: Starting up Workbench
+08:54:21 [INF][      Workbench]: Current environment:
+	Command line: "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\MySQLWorkbench.exe" 
+	CurrentDirectory: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	HasShutdownStarted: False
+	OSVersion: Microsoft Windows NT 6.2.9200.0
+	SystemDirectory: C:\WINDOWS\system32
+	TickCount: 4228828
+	UserInteractive: True
+	Version: 4.0.30319.42000
+	WorkingSet: 48390144
+08:54:21 [INF][      Workbench]: Environment variables:
+	SystemDrive = C:
+	ProgramFiles(x86) = C:\Program Files (x86)
+	ProgramW6432 = C:\Program Files
+	PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 151 Stepping 5, GenuineIntel
+	EFC_7280_1592913036 = 1
+	VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+	TMP = C:\Users\Aluno\AppData\Local\Temp
+	PROCESSOR_ARCHITECTURE = AMD64
+	Path = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Users\Aluno\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\Aluno\AppData\Local\Programs\Python\Python313\;C:\Users\Aluno\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.3\bin;;C:\Users\Aluno\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Aluno\.dotnet\tools
+	PyCharm Community Edition = C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.3\bin;
+	USERPROFILE = C:\Users\Aluno
+	PROCESSOR_REVISION = 9705
+	TEMP = C:\Users\Aluno\AppData\Local\Temp
+	EFC_7280_2283032206 = 1
+	FPS_BROWSER_USER_PROFILE_STRING = Default
+	LOGONSERVER = \\LAB-214
+	USERNAME = Aluno
+	SystemRoot = C:\WINDOWS
+	OneDrive = C:\Users\Aluno\OneDrive
+	FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+	CommonProgramFiles = C:\Program Files\Common Files
+	ProgramData = C:\ProgramData
+	HOMEPATH = \Users\Aluno
+	EFC_7280_2775293581 = 1
+	COMPUTERNAME = LAB-214
+	CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+	ALLUSERSPROFILE = C:\ProgramData
+	CommonProgramW6432 = C:\Program Files\Common Files
+	SESSIONNAME = Console
+	DriverData = C:\Windows\System32\Drivers\DriverData
+	HOMEDRIVE = C:
+	windir = C:\WINDOWS
+	NUMBER_OF_PROCESSORS = 12
+	OS = Windows_NT
+	ProgramFiles = C:\Program Files
+	ComSpec = C:\WINDOWS\system32\cmd.exe
+	PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+	EFC_7280_3789132940 = 1
+	PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\PowerShell\Modules\
+	APPDATA = C:\Users\Aluno\AppData\Roaming
+	USERDOMAIN = LAB-214
+	PROCESSOR_LEVEL = 6
+	LOCALAPPDATA = C:\Users\Aluno\AppData\Local
+	USERDOMAIN_ROAMINGPROFILE = LAB-214
+	EFC_7280_1262719628 = 1
+	PUBLIC = C:\Users\Public
+08:54:21 [INF][      Workbench]: Current version given by meta info is: 8.0.43
+08:54:21 [INF][      Workbench]: Setting PATH to: C:\WINDOWS\system32;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Users\Aluno\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.3\bin;;C:\Users\Aluno\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Aluno\.dotnet\tools
+08:54:21 [INF][ mforms managed]: Initializing mforms wrapper
+08:54:21 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	plugin path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	struct path: 
+	module path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE/modules
+	library path: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	user data dir: C:\Users\Aluno\AppData\Roaming\MySQL\Workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+08:54:21 [INF][      WBContext]: WbContext::init
+08:54:21 [INF][            WBA]: Looking for extension modules for WBA...
+08:54:21 [INF][            WBA]: 0 extension modules found
+08:54:21 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+08:54:21 [WRN][            grt]: C:\Users\Aluno\AppData\Roaming\MySQL\Workbench\connections.xml:0: link '{C0EB20CB-3FDF-4A47-B7F8-BB09E870E765}' <object GrtObject> key=owner could not be resolved
+08:54:21 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+08:54:21 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Windows version 8.0.43 CE build 5324808 (64 bit)
+	Configuration Directory: C:\Users\Aluno\AppData\Roaming\MySQL\Workbench
+	Data Directory: C:\Program Files\MySQL\MySQL Workbench 8.0 CE
+	Cairo Version: 1.18.0
+	OS: Microsoft Windows 10 Pro
+	CPU: 12x 12th Gen Intel(R) Core(TM) i5-12400, 15.7 GiB RAM
+	Active video adapter Intel(R) UHD Graphics 730
+	Installed video RAM: 2047 MB
+	Current video mode: 1280 x 720 x 4294967296 cores
+	Used bit depth: 32
+	Driver version: 32.0.101.7082
+	Installed display drivers: C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_68fe65fbc646d3a4\igdumdim64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_68fe65fbc646d3a4\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_68fe65fbc646d3a4\igd10iumd64.dll,C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_68fe65fbc646d3a4\igd12umd64.dll
+	Current user language: Português (Brasil)
+
+08:54:21 [INF][      Workbench]: UI is up
+08:54:21 [INF][      Workbench]: Running the application
+08:55:04 [INF][ Canvas backend]: Found OpenGL version for this view: 4.6.0 - Build 32.0.101.7082
+09:09:07 [WRN][  TableEditorBE]: BIGINT() is not a valid column type
+09:17:25 [INF][SQL Editor Form]: Opened connection 'Local instance MySQL80' to MySQL Community Server - GPL version 8.0.43
+09:17:25 [ERR][SQL Editor Form]: Unable to create db_mgmt_SSHConnectionRef object
+09:17:25 [INF][        WQE.net]: Launching SQL IDE
+09:17:26 [INF][        WQE.net]: SQL IDE UI is ready
+09:26:45 [ERR][ sqlide-history]: Can't open SQL history file C:\Users\Aluno\AppData\Roaming\MySQL\Workbench\sql_history\2026-02-28
+09:30:29 [INF][wb_admin_control.py:query_server_installation_info:859]: Currently connected to MySQL server version '8.0.43', conn status = True, active plugins = ['INNODB_TABLESTATS', 'INNODB_VIRTUAL', 'CSV', 'PERFORMANCE_SCHEMA', 'ARCHIVE', 'INNODB_CMP', 'INNODB_CMPMEM_RESET', 'INNODB_CMP_RESET', 'BLACKHOLE', 'INNODB_SESSION_TEMP_TABLESPACES', 'INNODB_FT_INDEX_TABLE', 'mysqlx', 'sha2_cache_cleaner', 'INNODB_CMP_PER_INDEX', 'binlog', 'INNODB_CMPMEM', 'INNODB_FT_CONFIG', 'INNODB_COLUMNS', 'INNODB_FT_BEING_DELETED', 'INNODB_METRICS', 'INNODB_CACHED_INDEXES', 'InnoDB', 'INNODB_TABLES', 'mysql_native_password', 'ngram', 'MRG_MYISAM', 'INNODB_BUFFER_PAGE_LRU', 'INNODB_CMP_PER_INDEX_RESET', 'daemon_keyring_proxy_plugin', 'INNODB_TABLESPACES', 'mysqlx_cache_cleaner', 'MyISAM', 'INNODB_TEMP_TABLE_INFO', 'INNODB_FT_INDEX_CACHE', 'MEMORY', 'INNODB_FT_DEFAULT_STOPWORD', 'caching_sha2_password', 'sha256_password', 'INNODB_BUFFER_PAGE', 'INNODB_BUFFER_POOL_STATS', 'INNODB_FT_DELETED', 'TempTable', 'INNODB_TRX', 'INNODB_INDEXES']
+09:30:29 [WRN][         mforms]: Resource file not found: mysql-logo-80.png
+09:30:30 [WRN][         mforms]: Resource file not found: mysql-logo-80.png
+09:30:50 [INF][wb_admin_control.py:query_server_installation_info:859]: Currently connected to MySQL server version '8.0.43', conn status = True, active plugins = ['INNODB_TABLESTATS', 'INNODB_VIRTUAL', 'CSV', 'PERFORMANCE_SCHEMA', 'ARCHIVE', 'INNODB_CMP', 'INNODB_CMPMEM_RESET', 'INNODB_CMP_RESET', 'BLACKHOLE', 'INNODB_SESSION_TEMP_TABLESPACES', 'INNODB_FT_INDEX_TABLE', 'mysqlx', 'sha2_cache_cleaner', 'INNODB_CMP_PER_INDEX', 'binlog', 'INNODB_CMPMEM', 'INNODB_FT_CONFIG', 'INNODB_COLUMNS', 'INNODB_FT_BEING_DELETED', 'INNODB_METRICS', 'INNODB_CACHED_INDEXES', 'InnoDB', 'INNODB_TABLES', 'mysql_native_password', 'ngram', 'MRG_MYISAM', 'INNODB_BUFFER_PAGE_LRU', 'INNODB_CMP_PER_INDEX_RESET', 'daemon_keyring_proxy_plugin', 'INNODB_TABLESPACES', 'mysqlx_cache_cleaner', 'MyISAM', 'INNODB_TEMP_TABLE_INFO', 'INNODB_FT_INDEX_CACHE', 'MEMORY', 'INNODB_FT_DEFAULT_STOPWORD', 'caching_sha2_password', 'sha256_password', 'INNODB_BUFFER_PAGE', 'INNODB_BUFFER_POOL_STATS', 'INNODB_FT_DELETED', 'TempTable', 'INNODB_TRX', 'INNODB_INDEXES']
+09:30:51 [INF][wb_log_reader.py:__init__:390]: Will use plain file access to get contents of log file C:\ProgramData\MySQL\MySQL Server 8.0\Data\DESKTOP-PQDEM1O.err
+09:30:51 [ERR][wb_admin_logs.py:update_ui:271]: Exception creating log reader: [Errno 13] Permission denied: 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Data\\DESKTOP-PQDEM1O.err'
+Traceback (most recent call last):
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_admin_logs.py", line 268, in update_ui
+    self.log_reader = self.BackendLogReaderClass(*self.args)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_log_reader.py", line 584, in __init__
+    super(ErrorLogFileReader, self).__init__(ctrl_be, file_name, pat, chunk_size, truncate_long_lines, append_gaps=False)
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_log_reader.py", line 391, in __init__
+    self.log_file = LocalInputFile(self.log_file_name)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_server_management.py", line 2024, in __init__
+    self._f = open(path)
+              ^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Data\\DESKTOP-PQDEM1O.err'
+
+09:30:51 [ERR][ LogViewGeneric]: Error creating log reader: [Errno 13] Permission denied: 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Data\\DESKTOP-PQDEM1O.err'
+
+09:30:51 [INF][wb_log_reader.py:__init__:390]: Will use plain file access to get contents of log file C:\ProgramData\MySQL\MySQL Server 8.0\Data\DESKTOP-PQDEM1O-slow.log
+09:30:51 [ERR][wb_admin_logs.py:update_ui:271]: Exception creating log reader: [Errno 13] Permission denied: 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Data\\DESKTOP-PQDEM1O-slow.log'
+Traceback (most recent call last):
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_admin_logs.py", line 268, in update_ui
+    self.log_reader = self.BackendLogReaderClass(*self.args)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_log_reader.py", line 670, in __init__
+    super(SlowLogFileReader, self).__init__(ctrl_be, file_name, pat, chunk_size, truncate_long_lines, append_gaps)
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_log_reader.py", line 391, in __init__
+    self.log_file = LocalInputFile(self.log_file_name)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\modules\wb_server_management.py", line 2024, in __init__
+    self._f = open(path)
+              ^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Data\\DESKTOP-PQDEM1O-slow.log'
+
+09:30:51 [ERR][        LogView]: Error creating log reader: [Errno 13] Permission denied: 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Data\\DESKTOP-PQDEM1O-slow.log'
+
+09:31:16 [ERR][SQL Editor Form]: Error Code: 1007. Can't create database 'bd_aula'; database exists
+09:31:21 [ERR][SQL Editor Form]: Error Code: 1007. Can't create database 'bd_aula'; database exists
+09:39:35 [ERR][SQL Editor Form]: Error Code: 1146. Table 'bd_aula.tb_veiculos' doesn't exist
+10:29:00 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'update tb_veiculo 
+set ds_cor = 'VERDE'
+where cd_placa = 'EFQ8H67'' at line 5
+10:43:45 [INF][ Canvas backend]: Found OpenGL version for this view: 4.6.0 - Build 32.0.101.7082
+10:50:09 [ERR][SQL Editor Form]: Error Code: 1146. Table 'bd_aula.tb_proprietario' doesn't exist
+10:50:16 [ERR][SQL Editor Form]: Error Code: 1007. Can't create database 'bd_aula'; database exists
+10:50:35 [INF][ Canvas backend]: Found OpenGL version for this view: 4.6.0 - Build 32.0.101.7082
+10:55:21 [ERR][SQL Editor Form]: Error Code: 1007. Can't create database 'bd_aula'; database exists
+10:55:46 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(20) not null
+)' at line 4
+10:56:28 [ERR][SQL Editor Form]: Error Code: 1007. Can't create database 'tb_proprietario'; database exists
+10:56:34 [ERR][SQL Editor Form]: Error Code: 1146. Table 'bd_aula.tb_proprietario' doesn't exist
+10:59:06 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(20) not null
+)' at line 4
+10:59:54 [ERR][SQL Editor Form]: Error Code: 1292. Incorrect date value: '10-10-2000' for column 'data_nascimento' at row 1
+11:00:07 [ERR][SQL Editor Form]: Error Code: 1292. Incorrect date value: '10102000' for column 'data_nascimento' at row 1
+11:00:50 [ERR][SQL Editor Form]: Error Code: 1292. Incorrect date value: '10-10-2000' for column 'data_nascimento' at row 1
+11:01:16 [ERR][SQL Editor Form]: Error Code: 1292. Incorrect date value: '10-10-2000' for column 'data_nascimento' at row 1
+11:03:37 [ERR][SQL Editor Form]: Error Code: 1050. Table 'tb_proprietario' already exists
+11:03:43 [ERR][SQL Editor Form]: Error Code: 1050. Table 'tb_proprietario' already exists
+11:03:55 [ERR][SQL Editor Form]: Error Code: 1050. Table 'tb_proprietario' already exists
+11:04:24 [ERR][SQL Editor Form]: Error Code: 1050. Table 'tb_proprietario' already exists
+11:15:42 [ERR][SQL Editor Form]: Error Code: 1050. Table 'tb_proprietario' already exists
+11:18:45 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'fk_nr_cpf bigint not null,
+    foreign key (fk_nr_cpf) 
+    references tb_propri' at line 6
+11:18:53 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'fk_nr_cpf bigint not null,
+    foreign key (fk_nr_cpf) 
+    references tb_propri' at line 6
+11:19:59 [ERR][SQL Editor Form]: Error Code: 1146. Table 'db_estacionamento.db_estacionamento' doesn't exist
+11:20:23 [ERR][SQL Editor Form]: Error Code: 1146. Table 'db_estacionamento.db_estacionamento' doesn't exist
+11:21:12 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'fk_cpf_proprietario bigint not null,
+    foreign key (fk_nr_cpf) 
+    references' at line 6
+11:21:44 [ERR][SQL Editor Form]: Error Code: 1072. Key column 'fk_nr_cpf' doesn't exist in table
+11:21:48 [ERR][SQL Editor Form]: Error Code: 1146. Table 'db_estacionamento.db_estacionamento' doesn't exist
+11:22:01 [ERR][SQL Editor Form]: Error Code: 1007. Can't create database 'db_estacionamento'; database exists
+11:22:07 [ERR][SQL Editor Form]: Error Code: 1072. Key column 'fk_nr_cpf' doesn't exist in table
+11:23:03 [ERR][SQL Editor Form]: Error Code: 1146. Table 'db_estacionamento.db_estacionamento' doesn't exist
+11:25:07 [ERR][SQL Editor Form]: Error Code: 1146. Table 'db_estacionamento.db_estacionamento' doesn't exist
+11:28:41 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '94601256038 , 'Joao' , '2000-10-10'),
+    (91082135003 , 'Alberto' , '2001-11-11' at line 2
+11:33:01 [ERR][SQL Editor Form]: Error Code: 1136. Column count doesn't match value count at row 1
+11:33:25 [ERR][SQL Editor Form]: Error Code: 1007. Can't create database 'db_estacionamento'; database exists
+11:33:56 [ERR][SQL Editor Form]: Error Code: 1136. Column count doesn't match value count at row 1
+11:35:44 [ERR][SQL Editor Form]: Error Code: 1146. Table 'db_estacionamento.db_estacionamento' doesn't exist
+11:50:58 [ERR][SQL Editor Form]: Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'insert into tb_proprietario values(
+'97677577835' , 'CAIO' , '1998-10-10'),
+('45' at line 3
+12:01:25 [ERR][SQL Editor Form]: Error Code: 1136. Column count doesn't match value count at row 1
+12:02:49 [ERR][SQL Editor Form]: Error Code: 1136. Column count doesn't match value count at row 1
+12:06:07 [ERR][SQL Editor Form]: Error Code: 1136. Column count doesn't match value count at row 1
+12:23:57 [ERR][SQL Editor Form]: Error Code: 1054. Unknown column 'cpf_proprietario' in 'where clause'
+12:24:16 [ERR][SQL Editor Form]: Error Code: 1054. Unknown column 'cpf_proprietario' in 'where clause'
+12:24:19 [ERR][SQL Editor Form]: Error Code: 1054. Unknown column 'cpf_proprietario' in 'where clause'
+12:30:33 [ERR][SQL Editor Form]: Error Code: 1054. Unknown column 'fk_cpf_proprietario' in 'where clause'
