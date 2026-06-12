@@ -100,6 +100,10 @@ VALUES
 ('TGH2M36', 'NISSAN', 'KICKS', 'BRANCA', 42240415883, 2021),
 ('FAC1723', 'RENAULT', 'DUSTER', 'VERMELHA', 42240415881, 2018);
 
+UPDATE tb_veiculo
+SET ds_cor = 'CINZA'
+WHERE cd_placa = 'QWE9J58';
+
 DELETE FROM tb_veiculo
 WHERE fk_cpf_proprietario = 45379172884;
 
